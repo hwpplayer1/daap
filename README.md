@@ -5,18 +5,31 @@ An ethnic house album by Mert Gör's Ubuntu Party which is released under the te
 Bu çalışma ile yapmak istediğim tek bir bütünün parçalarından oluşan kısa parçalarla tematik bir hikaye yazmak ve bunu rock/progressive rock ve elektronik olarak da ethnic house formunda icra edebilmektir.
 
 1  - into the light
+
 2  - where is the key
+
 3  - peace or death
+
 4  - 9/8(instrumental) 
+
 5  - when all is gone
+
 6  - still in the danger zone
+
 7  - my honor your victory
+
 8  - starry road
+
 9  - touch the sky
+
 10 - we meet each other
+
 11 - Hakuna Matata
+
 12 - rise up
+
 13 - forever young 
+
 14 - balkan(instrumental)
 
 artwork/logo : https://openclipart.org/detail/255223/wooden-carving
