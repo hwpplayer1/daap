@@ -32,8 +32,6 @@ Bu çalışma ile yapmak istediğim tek bir bütünün parçalarından oluşan k
 
 14 - balkan(instrumental)
 
-artwork/logo : https://openclipart.org/detail/255223/wooden-carving
-
 electric guitar rithm and solo / + fretless
 bass guitar     / + fretless
 keyboard
