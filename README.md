@@ -33,9 +33,13 @@ Bu çalışma ile yapmak istediğim tek bir bütünün parçalarından oluşan k
 14 - balkan(instrumental)
 
 electric guitar rithm and solo / + fretless
+
 bass guitar     / + fretless
+
 keyboard
+
 drums
+
 vocal and choro
 
 by Mert Gör's Ubuntu Party licensed under the terms of [CC BY-SA 4.0 or any later](by-sa.markdown)
