@@ -32,7 +32,7 @@ Bu çalışma ile yapmak istediğim tek bir bütünün parçalarından oluşan k
 
 14 - balkan(instrumental)
 
-electric guitar rithm and solo / + fretless
+electric guitar rhythm and solo / + fretless
 
 bass guitar     / + fretless
 
