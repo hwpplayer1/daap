@@ -40,7 +40,7 @@ keyboard
 
 drums
 
-vocal and choro
+vocal and chorus
 
 by Mert Gör's Ubuntu Party licensed under the terms of [CC BY-SA 4.0 or any later](by-sa.markdown)
 
